@@ -1,0 +1,272 @@
+5.34.180.128:9050::Sweden::Stockholm County::Stockholm
+5.45.127.209:8080::Estonia::None::None
+5.56.134.237:45698::Iran::Tehran::Tehran
+5.182.39.88:9682::United Kingdom::England::Croydon
+5.182.39.88:9988::China::Zhejiang::Hangzhou
+5.182.39.88:9999::France::Île-de-France::Boulogne-Billancourt
+8.129.71.143:1080::Taiwan::Changhua::Chang-hua
+8.129.232.192:6111::China::Guangdong::Shenzhen
+8.129.232.245:6111::China::Guangdong::Shenzhen
+8.135.28.152:1080::China::Guangdong::Shenzhen
+8.210.163.246:50011::Germany::None::None
+8.210.163.246:50042::Sweden::Stockholm County::Stockholm
+8.210.163.246:50045::Luxembourg::Capellen::Roodt
+20.52.130.140:16379::France::Occitanie::Toulouse
+20.78.252.183:1080::Japan::Tokyo::Tokyo
+27.116.51.85:6667::India::Gujarat::Gandhinagar
+27.116.51.92:6667::India::Gujarat::Gandhinagar
+31.7.232.178:1080::Russia::Nizhny Novgorod Oblast::Dzerzhinsk
+31.25.243.40:9186::Germany::None::None
+31.25.243.40:9224::Hong Kong::None::None
+31.25.243.40:9229::Germany::None::None
+31.25.243.40:9230::Germany::None::None
+31.25.243.40:9331::Germany::None::None
+31.25.243.40:9383::Germany::None::None
+31.25.243.40:9390::Hong Kong::None::None
+31.25.243.40:9455::Germany::None::None
+31.25.243.40:9469::Hong Kong::None::None
+31.128.248.1:1080::Ukraine::Cherkasy Oblast::Irkliyev
+36.94.126.50:1080::Indonesia::Jakarta::Jakarta
+37.152.180.142:440::Finland::Uusimaa::Helsinki
+39.96.175.55:1080::China::Beijing::Beijing
+42.194.204.205:1080::China::None::None
+43.128.13.103:28010::Hong Kong::Central and Western District::Central
+43.224.10.13:6667::India::Gujarat::Khambhat
+43.224.10.32:6667::India::Gujarat::Khambhat
+43.224.10.33:6667::India::Gujarat::Khambhat
+43.224.10.36:6667::India::Gujarat::Khambhat
+43.224.10.37:6667::India::Gujarat::Khambhat
+43.224.10.42:6667::India::Gujarat::Khambhat
+43.224.10.48:6667::India::Gujarat::Khambhat
+43.226.158.247:1080::China::None::None
+45.56.91.72:64321::United States::California::Fremont
+45.63.79.47:13802::United States::Illinois::Elk Grove Village
+45.79.125.240:9050::Germany::None::None
+45.149.76.42:9054::Norway::Vestfold og Telemark::Sandefjord
+46.0.234.11:5678::Russia::Samara Oblast::Samara
+46.29.253.45:19887::Sweden::Stockholm County::Stockholm
+46.101.102.106:4444::Germany::Hesse::Frankfurt am Main
+47.99.116.252:8888::China::None::None
+47.100.138.228:8023::China::Guangdong::Guangzhou
+47.106.98.34:1080::China::Guangdong::Shenzhen
+47.106.154.58:6111::China::Guangdong::Shenzhen
+47.106.157.118:1080::China::Guangdong::Shenzhen
+47.106.168.103:6111::China::Guangdong::Shenzhen
+47.106.172.159:6111::China::Guangdong::Shenzhen
+47.106.175.130:6111::China::Guangdong::Shenzhen
+47.106.183.212:6111::China::Guangdong::Shenzhen
+47.106.233.224:6111::China::Guangdong::Shenzhen
+47.106.238.117:6111::China::Guangdong::Shenzhen
+47.106.250.211:6111::China::Guangdong::Shenzhen
+47.115.11.247:6111::China::Guangdong::Shenzhen
+47.115.74.122:6111::China::Guangdong::Shenzhen
+47.115.80.99:6111::China::Guangdong::Shenzhen
+47.115.83.91:6111::China::Guangdong::Shenzhen
+47.115.83.210:6111::China::Guangdong::Shenzhen
+47.119.117.201:6111::China::Guangdong::Shenzhen
+47.119.120.232:6111::China::Guangdong::Shenzhen
+47.119.154.163:6111::China::Guangdong::Shenzhen
+47.119.156.72:6111::China::Guangdong::Shenzhen
+47.119.156.127:6111::China::Guangdong::Shenzhen
+47.243.44.22:80::Hong Kong::Central and Western District::Central
+51.79.69.153:1337::United States::None::None
+51.81.31.65:43275::United States::North Carolina::Raleigh
+51.81.31.168:39624::United States::New Jersey::Englewood
+51.83.190.248:19050::Germany::None::None
+51.116.183.98:1080::Germany::Hesse::Frankfurt am Main
+52.23.34.138:9050::Luxembourg::None::None
+54.193.134.2:20030::United States::California::San Jose
+54.238.7.243:8080::Japan::Tokyo::Tokyo
+58.32.14.88:1080::Japan::Tokyo::Shinagawa
+58.32.17.196:1080::Japan::Tokyo::Shinagawa
+59.172.144.43:1080::China::Hubei::Wuhan
+62.109.31.192:20000::Germany::None::None
+65.21.91.152:1080::Finland::Uusimaa::Helsinki
+66.42.91.229:12345::United States::Georgia::Atlanta
+66.49.207.24:9050::Netherlands::None::None
+68.183.111.220:12563::United States::New Jersey::North Bergen
+69.163.163.172:59694::United States::California::Brea
+78.46.88.230:44440::Germany::None::None
+78.46.88.230:46686::Germany::None::None
+78.46.89.24:46686::Germany::None::None
+78.81.200.28:9100::Austria::None::None
+79.124.62.26:443::Netherlands::None::None
+82.102.10.102:1080::United Kingdom::None::None
+85.192.160.54:1180::Russia::Orenburg Oblast::Orenburg
+88.202.177.242:1080::Netherlands::North Holland::Amsterdam
+91.198.137.31:3508::Germany::None::None
+91.198.137.31:3509::Germany::None::None
+91.198.137.31:3510::Germany::None::None
+91.198.137.31:3516::Germany::Bavaria::Munich
+91.198.137.31:3517::Seychelles::None::None
+91.198.137.31:3519::Germany::None::None
+91.198.137.31:3526::Germany::Bavaria::Nuremberg
+91.198.137.31:3537::United States::None::None
+91.198.137.31:3541::Seychelles::None::None
+91.198.137.31:3548::France::None::None
+91.198.137.31:3549::Norway::Vestfold og Telemark::Sandefjord
+91.198.137.31:3550::Germany::None::None
+91.198.137.31:3553::Germany::None::None
+91.198.137.31:3554::Germany::None::None
+91.198.137.31:3570::Netherlands::None::None
+91.198.137.31:3575::Sweden::Stockholm County::Stockholm
+91.198.137.31:3581::United States::None::None
+91.198.137.31:3594::United States::None::None
+91.198.137.31:3596::Germany::Bavaria::Nuremberg
+93.179.94.133:5678::Russia::None::None
+95.169.186.58:9050::Seychelles::None::None
+95.169.186.58:9058::Netherlands::None::None
+95.169.186.58:32768::Germany::None::None
+95.169.187.58:9050::Seychelles::None::None
+95.169.187.58:32768::Germany::None::None
+95.188.93.135:666::Germany::None::None
+95.213.154.54:31337::Luxembourg::Mersch::Bissen
+95.216.123.39:9051::Germany::None::None
+95.216.147.49:9050::Switzerland::None::None
+95.216.181.107:9070::Netherlands::Flevoland::Dronten
+97.74.230.87:26236::United States::None::None
+97.74.230.87:31365::United States::None::None
+103.21.161.105:6667::India::Gujarat::Bhavnagar
+103.85.232.146:1080::Bangladesh::Dhaka Division::Dhaka
+103.120.162.153:1080::Bangladesh::Khulna Division::Satkhira
+103.133.92.91:1080::Hong Kong::None::None
+103.139.163.168:1080::Indonesia::South Sumatra::Palembang
+103.240.160.21:6667::India::Gujarat::Patan
+103.240.161.109:6667::India::Gujarat::Patan
+103.241.227.100:6667::India::Gujarat::Ahmedabad
+103.241.227.108:6667::India::Gujarat::Ahmedabad
+103.241.227.114:6667::India::Gujarat::Ahmedabad
+103.250.157.39:6667::India::Gujarat::Godhra
+103.250.166.17:6667::India::Gujarat::Gandhidham
+103.251.214.167:6667::India::Gujarat::Ahmedabad
+104.238.66.161:31337::United States::None::None
+104.238.101.125:31337::United States::None::None
+104.248.48.161:30588::United States::None::None
+104.248.63.17:30588::Denmark::Capital Region::Copenhagen
+104.255.170.64:57848::United States::Oregon::Bend
+104.255.170.64:58163::United States::Oregon::Bend
+104.255.170.64:61291::United States::Oregon::Bend
+104.255.170.65:53763::United States::Oregon::Bend
+104.255.170.66:53008::United States::Oregon::Bend
+104.255.170.66:53468::United States::Oregon::Bend
+104.255.170.67:53008::United States::Oregon::Bend
+104.255.170.68:50558::United States::Oregon::Bend
+104.255.170.68:51160::United States::Oregon::Bend
+104.255.170.68:53008::United States::Oregon::Bend
+104.255.170.68:57848::United States::Oregon::Bend
+104.255.170.70:50558::United States::Oregon::Bend
+104.255.170.89:61291::United States::Oregon::Bend
+104.255.170.90:53468::United States::Oregon::Bend
+104.255.170.90:61291::United States::Oregon::Bend
+104.255.170.91:51160::United States::Oregon::Bend
+104.255.170.91:53008::United States::Oregon::Bend
+104.255.170.91:58163::United States::Oregon::Bend
+106.37.96.50:1080::United States::California::Los Angeles
+106.75.171.132:3000::China::None::None
+106.75.173.103:3000::China::None::None
+109.72.231.37:1080::Russia::Moscow::Moscow
+109.224.6.142:1080::Iraq::None::None
+109.237.214.239:1080::Netherlands::Flevoland::Almere Stad
+112.65.117.128:7777::China::Shanghai::Shanghai
+115.231.196.138:1080::Hong Kong::None::None
+116.203.128.117:9050::United States::None::None
+116.237.116.222:1080::China::Shanghai::Shanghai
+117.102.84.142:443::Indonesia::Jakarta::Jakarta
+117.174.160.105:1080::China::Sichuan::Gongnong
+119.28.45.47:9150::Seychelles::None::None
+120.78.209.196:12345::United States::None::None
+120.196.237.162:1080::China::None::None
+121.36.67.177:8000::China::None::None
+121.147.177.38:1080::South Korea::Gwangju::Gwangju
+124.65.117.38:7302::China::Beijing::Beijing
+124.74.249.135:80::China::None::None
+125.212.249.147:1080::Vietnam::None::None
+128.199.45.26:9053::Netherlands::None::None
+129.204.227.27:1080::China::None::None
+130.185.77.48:34424::Iran::None::None
+132.148.12.193:8000::United States::None::None
+132.148.15.129:38844::United States::None::None
+132.148.156.206:3519::United States::None::None
+132.148.159.119:7529::United States::None::None
+134.209.191.118:8523::United States::None::None
+139.59.61.51:5678::India::Karnataka::Bengaluru
+139.198.179.174:3128::China::Shanghai::Shanghai
+141.164.46.133:2205::Netherlands::Flevoland::Dronten
+143.110.238.119:999::United States::California::Santa Clara
+143.198.55.76:1080::United States::California::Santa Clara
+143.244.183.196:1080::United States::California::Santa Clara
+143.244.187.236:1080::United States::California::Santa Clara
+144.76.42.181:62311::Germany::None::None
+150.109.148.234:1234::Hong Kong::Central and Western District::Central
+150.129.151.83:6667::India::Gujarat::Surendranagar
+151.106.30.102:6776::France::Grand Est::Strasbourg
+151.106.34.139:1080::France::Hauts-de-France::Roubaix
+152.32.215.107:1080::Hong Kong::None::None
+159.65.225.8:24736::United States::New Jersey::North Bergen
+162.144.64.112:10555::United States::None::None
+162.144.64.112:14440::United States::None::None
+162.144.64.112:17329::United States::None::None
+162.144.64.112:24030::United States::None::None
+162.144.64.112:35851::United States::None::None
+163.53.209.7:6667::India::Gujarat::Modasa
+164.155.104.33:39680::United States::Illinois::Chicago
+165.227.177.113:16652::United States::New Jersey::Clifton
+165.232.153.162:1080::United States::California::Santa Clara
+166.62.38.100:45310::United States::None::None
+166.62.52.74:64064::United States::None::None
+167.71.172.18:9050::United States::None::None
+167.71.249.173:40801::United States::New Jersey::Clifton
+167.86.92.43:8085::Germany::Bavaria::Nuremberg
+167.172.141.70:4517::United States::New Jersey::North Bergen
+167.172.141.70:14738::United States::New Jersey::North Bergen
+167.172.141.70:36624::United States::New Jersey::North Bergen
+167.172.141.70:41232::United States::New Jersey::North Bergen
+167.172.155.178:25881::United States::New Jersey::North Bergen
+168.119.61.251:9988::Germany::None::None
+172.104.145.22:9064::Germany::Hesse::Frankfurt am Main
+173.236.186.16:29034::United States::None::None
+173.236.187.144:29034::United States::None::None
+173.236.188.61:29034::United States::None::None
+173.236.188.97:29034::United States::None::None
+173.236.189.229:29034::United States::None::None
+173.255.199.69:19151::France::Île-de-France::Paris
+174.138.174.210:80::United States::Arizona::Phoenix
+174.138.174.214:80::United States::Arizona::Phoenix
+176.9.160.118:22836::Germany::None::None
+176.114.45.163:5678::Ukraine::Crimea::Feodosiya
+176.114.203.96:9050::Sweden::Stockholm County::Stockholm
+178.62.79.49:23668::United Kingdom::England::London
+178.62.79.49:28381::United Kingdom::England::London
+178.62.79.49:51591::United Kingdom::England::London
+181.3.118.191:1080::Brazil::Sao Paulo::Campinas
+181.7.211.99:1080::Argentina::Buenos Aires F.D.::Buenos Aires
+182.18.95.196:1080::China::Beijing::Changping
+182.254.171.163:8000::China::Hunan::Changsha
+183.23.72.155:28388::China::Guangdong::Shenzhen
+183.196.3.8:1080::United States::California::Los Angeles
+183.236.164.121:1081::China::None::None
+184.168.146.10:55794::United States::None::None
+185.78.165.174:80::Netherlands::None::None
+185.107.82.164:3128::Netherlands::None::None
+185.107.82.172:3128::Netherlands::None::None
+185.132.2.134:8080::Ukraine::Odessa::Odessa
+185.136.162.217:6776::France::Grand Est::Strasbourg
+185.153.198.210:54471::United States::Ohio::Hilliard
+185.179.196.19:1086::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1095::Russia::St.-Petersburg::St Petersburg
+185.179.196.19:1100::Russia::St.-Petersburg::St Petersburg
+188.166.104.152:50725::Netherlands::North Holland::Amsterdam
+188.166.104.152:60966::Netherlands::North Holland::Amsterdam
+188.241.45.142:2021::United Kingdom::England::Batley
+192.169.139.161:8975::United States::None::None
+192.169.201.24:27229::United States::None::None
+192.169.201.24:51100::United States::None::None
+192.169.249.15:2364::United States::None::None
+193.112.118.89:38888::China::None::None
+195.201.130.228:59435::Germany::None::None
+198.199.86.148:15076::United States::New Jersey::North Bergen
+209.97.175.37:9050::United States::Arizona::Phoenix
+210.16.73.82:1080::Philippines::Calabarzon::Paranaque City
+213.208.178.202:5678::Russia::Moscow::Moscow
+217.19.216.222:5678::Moldova::Transnistria::Tiraspol
+218.249.69.214:1081::United States::California::San Jose
